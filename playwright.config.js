@@ -14,7 +14,7 @@ const config = {
         debug: false,
         testops: {
           api: {
-            token: '<d8e59703dca5783d5a48653e3abd59d8da46a7c0c89b3d2b73a336066e1cdf87>',
+            token: 'e5a60596d79356f758e6b3fd200816880d62ce2b19e1a23d011050c33c05454e',
           },
           project: 'EE',      // Replace <DEMO> with your project code
           uploadAttachments: true,
